@@ -1,6 +1,6 @@
 # Reddit-Downloader
 
-A tiny executable to download images from subreddits. Although it's a .exe file, it uses CLI-like arguments to define what subs to download for, what category and how many posts.
+A tiny executable to download images from subreddits. Although it's a .exe file, it uses CLI-like arguments to define what subs to download for, what category and how many posts. Uses RedditSharp as means to use the Reddit API.
 
 It downloads the following formats to the same directory as the .exe:
 
